@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1120</width>
+    <height>850</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">
+background-color: rgb(238, 238, 238);
+background-color: rgb(255, 247, 239);</string>
+  </property>
+  <widget class="QWidget" name="widget" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>201</width>
+     <height>851</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+background-color: rgb(255, 222, 222);</string>
+   </property>
+  </widget>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1121</width>
+     <height>751</height>
+    </rect>
+   </property>
+   <column>
+    <property name="text">
+     <string>SerialNo.</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>PName</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>RunningStatus</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>StartBtn</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>KillBtn</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>CPUUse%</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>MemoryUse%</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>NoOfOpenFiles</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>StartOrStopTime</string>
+    </property>
+   </column>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
