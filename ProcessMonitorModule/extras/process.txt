@@ -1,0 +1,11 @@
+  cd /home/ows/OWS/bin
+CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+
+CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+
+ CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+
+processmonitor.log kaps1
+#aaa
+
+
