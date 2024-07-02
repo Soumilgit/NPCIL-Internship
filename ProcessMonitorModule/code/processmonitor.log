@@ -1,0 +1,734 @@
+Timestamp:2024-05-17 17:39:05.894436, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:05.911414, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:05.940202, Process CommandController Not RunningTimestamp:2024-05-17 17:39:10.965374, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:10.993001, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:11.014007, Process CommandController Not RunningTimestamp:2024-05-17 17:39:16.036207, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:16.058146, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:16.082540, Process CommandController Not RunningTimestamp:2024-05-17 17:39:21.106199, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:21.129661, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:21.153645, Process CommandController Not RunningTimestamp:2024-05-17 17:39:26.206077, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:26.225202, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:26.252229, Process CommandController Not RunningTimestamp:2024-05-17 17:39:31.278705, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:31.301436, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:31.331104, Process CommandController Not RunningTimestamp:2024-05-17 17:39:36.355566, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:36.379211, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:36.403551, Process CommandController Not RunningTimestamp:2024-05-17 17:39:41.440477, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:41.563216, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:41.674924, Process CommandController Not RunningTimestamp:2024-05-17 17:39:46.750875, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:46.774713, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:46.799730, Process CommandController Not RunningTimestamp:2024-05-17 17:39:51.835456, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:51.855115, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:51.875651, Process CommandController Not RunningTimestamp:2024-05-17 17:39:56.901409, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:56.931547, Process CommunicationModule Not RunningTimestamp:2024-05-17 17:39:56.952557, Process CommandController Not RunningTimestamp:2024-05-17 17:40:05.073487, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:05.101529, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:05.122148, Process CommandController Not Running
+Timestamp:2024-05-17 17:40:10.146448, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:10.170126, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:10.193466, Process CommandController Not Running
+Timestamp:2024-05-17 17:40:15.223456, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:15.245768, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:15.273011, Process CommandController Not Running
+Timestamp:2024-05-17 17:40:20.296076, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:20.319529, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:20.343641, Process CommandController Not Running
+Timestamp:2024-05-17 17:40:25.373523, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:25.397690, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:25.423315, Process CommandController Not Running
+Timestamp:2024-05-17 17:40:30.453454, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:30.475748, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:30.502091, Process CommandController Not Running
+Timestamp:2024-05-17 17:40:35.533304, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:35.558805, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:35.583157, Process CommandController Not Running
+Timestamp:2024-05-17 17:40:40.606155, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:40.629179, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:40.652964, Process CommandController Not Running
+Timestamp:2024-05-17 17:40:45.676195, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:45.698294, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:45.722178, Process CommandController Not Running
+Timestamp:2024-05-17 17:40:50.746389, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:50.769148, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:50.792854, Process CommandController Not Running
+Timestamp:2024-05-17 17:40:55.836801, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:55.861427, Process CommunicationModule Not Running
+Timestamp:2024-05-17 17:40:55.889395, Process CommandController Not Running
+Timestamp:2024-05-21 12:15:50.061249, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:15:50.061435, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:15:50.090319, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:15:50.090464, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:15:50.112718, Process CommandController Not Running
+Timestamp:2024-05-21 12:15:50.112846, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:15:55.142609, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:15:55.142738, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:15:55.170686, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:15:55.170789, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:15:55.191469, Process CommandController Not Running
+Timestamp:2024-05-21 12:15:55.191575, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:16:00.215241, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:16:00.215371, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:16:00.241506, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:16:00.241559, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:16:00.260437, Process CommandController Not Running
+Timestamp:2024-05-21 12:16:00.260567, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:16:05.293091, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:16:05.293237, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:16:05.314471, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:16:05.314539, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:16:05.340603, Process CommandController Not Running
+Timestamp:2024-05-21 12:16:05.340679, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:16:10.375790, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:16:10.375916, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:16:10.397960, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:16:10.398076, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:16:10.422968, Process CommandController Not Running
+Timestamp:2024-05-21 12:16:10.423146, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:16:15.455348, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:16:15.455476, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:16:15.477535, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:16:15.477622, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:16:15.495490, Process CommandController Not Running
+Timestamp:2024-05-21 12:16:15.495543, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:16:20.524219, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:16:20.524363, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:16:20.545910, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:16:20.546088, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:16:20.570226, Process CommandController Not Running
+Timestamp:2024-05-21 12:16:20.570290, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:16:25.594548, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:16:25.594735, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:16:25.618100, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:16:25.618232, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:16:25.642646, Process CommandController Not Running
+Timestamp:2024-05-21 12:16:25.642777, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:18:54.009202, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:18:54.009399, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:18:54.032586, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:18:54.032730, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:18:54.055686, Process CommandController Not Running
+Timestamp:2024-05-21 12:18:54.055734, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:18:58.613253, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:18:58.613441, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:18:58.638819, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:18:58.638879, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:18:58.662950, Process CommandController Not Running
+Timestamp:2024-05-21 12:18:58.663099, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:18:59.084102, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:18:59.084238, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:18:59.108233, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:18:59.108369, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:18:59.132827, Process CommandController Not Running
+Timestamp:2024-05-21 12:18:59.132960, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:19:03.700935, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:03.701087, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:03.732357, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:03.732486, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:03.756358, Process CommandController Not Running
+Timestamp:2024-05-21 12:19:03.756486, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:19:04.163503, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:04.163640, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:04.189165, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:04.189299, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:04.220839, Process CommandController Not Running
+Timestamp:2024-05-21 12:19:04.220974, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:19:08.784814, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:08.784874, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:08.805330, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:08.805523, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:08.830612, Process CommandController Not Running
+Timestamp:2024-05-21 12:19:08.830737, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:19:09.245195, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:09.245331, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:09.269414, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:09.269549, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:09.300124, Process CommandController Not Running
+Timestamp:2024-05-21 12:19:09.300261, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:19:13.855297, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:13.855473, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:13.877917, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:13.878039, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:13.903653, Process CommandController Not Running
+Timestamp:2024-05-21 12:19:13.903826, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:19:14.324554, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:14.324740, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:14.349506, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:14.349641, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:14.381029, Process CommandController Not Running
+Timestamp:2024-05-21 12:19:14.381172, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:19:18.933551, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:18.933682, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:18.955236, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:18.955315, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:18.982902, Process CommandController Not Running
+Timestamp:2024-05-21 12:19:18.983076, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:19:19.405334, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:19.405471, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:19.430545, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:19.430681, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:19.460957, Process CommandController Not Running
+Timestamp:2024-05-21 12:19:19.461146, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:19:24.495797, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:24.495931, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:24.612880, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:24.613032, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:25.255418, Process CommandController Not Running
+Timestamp:2024-05-21 12:19:25.255552, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:19:30.295474, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:30.295608, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:30.314421, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:30.314557, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:30.341805, Process CommandController Not Running
+Timestamp:2024-05-21 12:19:30.341940, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:19:35.365286, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:35.365420, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:35.388220, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:35.388357, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:35.411843, Process CommandController Not Running
+Timestamp:2024-05-21 12:19:35.411978, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:19:40.435517, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:40.435652, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:40.460508, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:40.460640, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:40.489241, Process CommandController Not Running
+Timestamp:2024-05-21 12:19:40.489376, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:19:45.514709, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:45.514849, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:45.541550, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:45.541686, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:45.569018, Process CommandController Not Running
+Timestamp:2024-05-21 12:19:45.569156, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:19:50.594455, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:50.594589, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:50.620547, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:50.620682, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:50.649246, Process CommandController Not Running
+Timestamp:2024-05-21 12:19:50.649380, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:19:55.674062, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:55.674119, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:55.695414, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:19:55.695548, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:19:55.714706, Process CommandController Not Running
+Timestamp:2024-05-21 12:19:55.714845, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:20:00.743869, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:00.744023, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:00.771511, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:00.771641, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:00.799046, Process CommandController Not Running
+Timestamp:2024-05-21 12:20:00.799182, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:20:05.834453, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:05.834588, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:05.861923, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:05.862090, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:05.888841, Process CommandController Not Running
+Timestamp:2024-05-21 12:20:05.888975, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:20:10.914393, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:10.914529, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:10.940522, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:10.940658, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:10.969134, Process CommandController Not Running
+Timestamp:2024-05-21 12:20:10.969271, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:20:16.024151, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:16.024287, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:16.045176, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:16.045327, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:16.064362, Process CommandController Not Running
+Timestamp:2024-05-21 12:20:16.064498, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:20:21.118659, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:21.118794, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:21.168340, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:21.168476, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:21.192772, Process CommandController Not Running
+Timestamp:2024-05-21 12:20:21.192907, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:20:26.222890, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:26.223049, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:26.251135, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:26.251269, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:26.278812, Process CommandController Not Running
+Timestamp:2024-05-21 12:20:26.278948, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:20:31.402615, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:31.402750, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:31.428818, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:31.428953, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:31.452786, Process CommandController Not Running
+Timestamp:2024-05-21 12:20:31.452920, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:20:36.524191, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:36.524326, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:36.548604, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:36.548739, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:36.573092, Process CommandController Not Running
+Timestamp:2024-05-21 12:20:36.573242, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:20:41.603756, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:41.603892, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:41.624479, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:41.624614, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:41.643905, Process CommandController Not Running
+Timestamp:2024-05-21 12:20:41.644092, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:20:46.674378, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:46.674513, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:46.698919, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:46.699102, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:46.729954, Process CommandController Not Running
+Timestamp:2024-05-21 12:20:46.730143, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:20:51.762702, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:51.762771, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:51.788915, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:51.789140, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:51.819950, Process CommandController Not Running
+Timestamp:2024-05-21 12:20:51.820135, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:20:56.845636, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:56.845772, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:56.869307, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:20:56.869439, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:20:56.899508, Process CommandController Not Running
+Timestamp:2024-05-21 12:20:56.899557, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:21:01.924375, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:21:01.924511, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:21:01.948970, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:21:01.949128, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:21:01.980023, Process CommandController Not Running
+Timestamp:2024-05-21 12:21:01.980168, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:21:07.749266, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:21:07.749451, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:21:07.780521, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:21:07.780665, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:21:07.809931, Process CommandController Not Running
+Timestamp:2024-05-21 12:21:07.810114, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:21:07.840709, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:21:07.840842, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:21:12.865071, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:21:12.865203, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:21:12.886184, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:21:12.886255, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:21:12.912747, Process CommandController Not Running
+Timestamp:2024-05-21 12:21:12.912881, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:21:12.935176, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:21:12.935259, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:21:17.963825, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:21:17.963879, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:21:17.985453, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:21:17.985586, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:21:18.004852, Process CommandController Not Running
+Timestamp:2024-05-21 12:21:18.005054, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:21:18.031895, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:21:18.032047, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:21:23.077163, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:21:23.077295, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:21:23.095288, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:21:23.095423, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:21:23.122118, Process CommandController Not Running
+Timestamp:2024-05-21 12:21:23.122403, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:21:23.147334, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:21:23.147442, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:21:28.180848, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:21:28.181000, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:21:28.208475, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:21:28.208610, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:21:28.233872, Process CommandController Not Running
+Timestamp:2024-05-21 12:21:28.234012, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:21:28.254475, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:21:28.254609, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:21:33.284328, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:21:33.284461, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:21:33.307082, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:21:33.307132, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:21:33.330512, Process CommandController Not Running
+Timestamp:2024-05-21 12:21:33.330646, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:21:33.361160, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:21:33.361289, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:22:19.069855, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:22:19.070071, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:22:19.100331, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:22:19.100476, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:22:19.131367, Process CommandController Not Running
+Timestamp:2024-05-21 12:22:19.131501, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:22:19.158775, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:22:19.158827, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:22:23.563592, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:22:23.563787, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:22:23.591340, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:22:23.591479, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:22:23.618886, Process CommandController Not Running
+Timestamp:2024-05-21 12:22:23.619070, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:22:23.649729, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:22:23.649865, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:22:24.184394, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:22:24.184528, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:22:24.209094, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:22:24.209232, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:22:24.240090, Process CommandController Not Running
+Timestamp:2024-05-21 12:22:24.240232, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:22:24.354034, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:22:24.354175, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:22:29.474402, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:22:29.474593, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:22:29.501025, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:22:29.501167, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:22:29.530523, Process CommandController Not Running
+Timestamp:2024-05-21 12:22:29.530661, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:22:29.558169, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:22:29.558256, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:22:53.069400, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:22:53.069603, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:22:53.099521, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:22:53.099663, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:22:53.130303, Process CommandController Not Running
+Timestamp:2024-05-21 12:22:53.130439, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:22:53.159911, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:22:53.160580, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:22:57.708760, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:22:57.708953, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:22:57.732483, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:22:57.732627, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:22:57.760723, Process CommandController Not Running
+Timestamp:2024-05-21 12:22:57.760861, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:22:57.788930, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:22:57.788989, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:22:58.185757, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:22:58.185936, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:22:58.212618, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:22:58.212750, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:22:58.238134, Process CommandController Not Running
+Timestamp:2024-05-21 12:22:58.238266, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:22:58.262528, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:22:58.262657, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:23:02.814507, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:23:02.814704, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:23:02.835066, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:23:02.835170, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:23:02.854247, Process CommandController Not Running
+Timestamp:2024-05-21 12:23:02.854294, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:23:02.880305, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:23:02.880439, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:23:03.293288, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:23:03.293420, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:23:03.315057, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:23:03.315188, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:23:03.342117, Process CommandController Not Running
+Timestamp:2024-05-21 12:23:03.342246, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:23:03.369129, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:23:03.369267, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:23:07.911917, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:23:07.912073, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:23:07.940878, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:23:07.941048, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:23:07.968570, Process CommandController Not Running
+Timestamp:2024-05-21 12:23:07.968705, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:23:07.992495, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:23:07.992632, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:23:08.401489, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:23:08.401614, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:23:08.424538, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:23:08.424669, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:23:08.449794, Process CommandController Not Running
+Timestamp:2024-05-21 12:23:08.449924, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:23:08.480274, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:23:08.480405, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:23:13.504695, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:23:13.504874, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:23:13.532201, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:23:13.532327, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:23:13.644798, Process CommandController Not Running
+Timestamp:2024-05-21 12:23:13.644928, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:23:13.813155, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:23:13.813286, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:27:31.794518, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:27:31.794683, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:27:31.819253, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:27:31.819394, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:27:31.842515, Process CommandController Not Running
+Timestamp:2024-05-21 12:27:31.842644, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:27:31.865242, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:27:31.865372, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:27:36.891679, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:27:36.891725, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:27:36.914436, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:27:36.914498, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:27:36.941487, Process CommandController Not Running
+Timestamp:2024-05-21 12:27:36.941614, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:27:36.961877, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:27:36.962043, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:27:41.992607, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:27:41.992736, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:27:42.019377, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:27:42.019505, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:27:42.043851, Process CommandController Not Running
+Timestamp:2024-05-21 12:27:42.043977, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:27:42.071757, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:27:42.071884, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:27:47.103433, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:27:47.103560, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:27:47.126431, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:27:47.126522, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:27:47.151138, Process CommandController Not Running
+Timestamp:2024-05-21 12:27:47.151268, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:27:47.171514, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:27:47.171642, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:27:52.195467, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:27:52.195596, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:27:52.220470, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:27:52.220601, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:27:52.250187, Process CommandController Not Running
+Timestamp:2024-05-21 12:27:52.250316, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:27:52.272429, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:27:52.272558, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:27:57.303619, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:27:57.303713, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:27:57.324289, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:27:57.324416, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:27:57.353100, Process CommandController Not Running
+Timestamp:2024-05-21 12:27:57.353227, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:27:57.372413, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:27:57.372545, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:28:02.403860, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:28:02.404015, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:28:02.427817, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:28:02.427923, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:28:02.450874, Process CommandController Not Running
+Timestamp:2024-05-21 12:28:02.451022, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:28:02.478902, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:28:02.478949, Process processmonitor.sh started by Process Monitor Module
+Timestamp:2024-05-21 12:28:07.504662, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:28:07.504832, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:28:07.528407, Process CommunicationModule Not Running
+Timestamp:2024-05-21 12:28:07.528470, Process CommunicationModule started by Process Monitor Module
+Timestamp:2024-05-21 12:28:07.559781, Process CommandController Not Running
+Timestamp:2024-05-21 12:28:07.559843, Process CommandController started by Process Monitor Module
+Timestamp:2024-05-21 12:28:07.590154, Process processmonitor.sh Not Running
+Timestamp:2024-05-21 12:28:07.590244, Process processmonitor.sh started by Process Monitor Module
+File process.txt does not exist...Exiting from Process Monitor Module..
+File process.txt does not exist...Exiting from Process Monitor Module..
+Timestamp:2024-05-21 18:01:39.914154, File process.txt does not exist...Exiting from Process Monitor Module..
+Timestamp:2024-05-21 18:04:34.492904, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:04:34.492939, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:04:34.519649, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:04:34.519690, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:04:34.543884, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:04:34.543917, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:04:34.563984, Process processmonitor.sh kaps1
+ Not Running
+Timestamp:2024-05-21 18:04:34.563998, Process processmonitor.sh kaps1
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:04:39.586019, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:04:39.586034, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:04:39.607901, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:04:39.607923, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:04:39.629922, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:04:39.629941, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:04:39.657689, Process processmonitor.sh kaps1
+ Not Running
+Timestamp:2024-05-21 18:04:39.657705, Process processmonitor.sh kaps1
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:04:44.691084, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:04:44.691118, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:04:44.714643, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:04:44.714672, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:04:44.741617, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:04:44.741652, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:04:44.768066, Process processmonitor.sh kaps1
+ Not Running
+Timestamp:2024-05-21 18:04:44.768108, Process processmonitor.sh kaps1
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:04:49.794515, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:04:49.794549, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:04:49.819319, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:04:49.819355, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:04:49.850944, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:04:49.850977, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:04:49.880917, Process processmonitor.sh kaps1
+ Not Running
+Timestamp:2024-05-21 18:04:49.880953, Process processmonitor.sh kaps1
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:04:54.911835, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:04:54.911869, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:04:54.937378, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:04:54.937413, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:04:54.961245, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:04:54.961281, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:04:54.987281, Process processmonitor.sh kaps1
+ Not Running
+Timestamp:2024-05-21 18:04:54.987313, Process processmonitor.sh kaps1
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:00.013537, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:00.013569, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:00.039624, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:00.039659, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:00.062756, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:00.062791, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:00.090711, Process processmonitor.sh kaps1
+ Not Running
+Timestamp:2024-05-21 18:05:00.090746, Process processmonitor.sh kaps1
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:05.114799, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:05.114833, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:05.141320, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:05.141355, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:05.170139, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:05.170177, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:05.283446, Process processmonitor.sh kaps1
+ Not Running
+Timestamp:2024-05-21 18:05:05.283461, Process processmonitor.sh kaps1
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:10.404273, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:10.404289, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:10.423589, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:10.423601, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:10.443760, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:10.443776, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:10.462235, Process processmonitor.sh kaps1
+ Not Running
+Timestamp:2024-05-21 18:05:10.462251, Process processmonitor.sh kaps1
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:15.487471, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:15.487486, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:15.511408, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:15.511443, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:15.538278, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:15.538313, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:15.570171, Process processmonitor.sh kaps1
+ Not Running
+Timestamp:2024-05-21 18:05:15.570209, Process processmonitor.sh kaps1
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:20.594621, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:20.594638, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:20.614305, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:20.614321, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:20.629921, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:20.629940, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:20.649198, Process processmonitor.sh kaps1
+ Not Running
+Timestamp:2024-05-21 18:05:20.649214, Process processmonitor.sh kaps1
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:25.674915, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:25.674934, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:25.699973, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:25.700055, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:25.722747, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:25.722762, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:25.750395, Process processmonitor.sh kaps1
+ Not Running
+Timestamp:2024-05-21 18:05:25.750431, Process processmonitor.sh kaps1
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:30.774500, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:30.774534, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:30.801399, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:30.801434, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:30.828138, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:30.828175, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:30.852232, Process processmonitor.sh kaps1
+ Not Running
+Timestamp:2024-05-21 18:05:30.852268, Process processmonitor.sh kaps1
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:35.875260, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:35.875294, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:35.897597, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:35.897613, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:35.928702, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:35.928737, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:35.952721, Process processmonitor.sh kaps1
+ Not Running
+Timestamp:2024-05-21 18:05:35.952755, Process processmonitor.sh kaps1
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:40.074802, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:40.074821, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:40.101369, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:40.101413, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:40.130141, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:05:40.130176, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:05:40.160241, Process processmonitor.sh kaps1
+ Not Running
+Timestamp:2024-05-21 18:05:40.160276, Process processmonitor.sh kaps1
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:06:33.744464, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:06:33.744499, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:06:33.771717, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:06:33.771758, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:06:33.797459, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ Not Running
+Timestamp:2024-05-21 18:06:33.797494, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null &
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:06:33.822678, Process processmonitor.sh kaps1
+ Not Running
+Timestamp:2024-05-21 18:06:33.822712, Process processmonitor.sh kaps1
+ started by Process Monitor Module
+Timestamp:2024-05-21 18:15:24.639065, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null & Not Running
+Timestamp:2024-05-21 18:15:24.639111, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null & started by Process Monitor Module
+Timestamp:2024-05-21 18:15:24.662166, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null & Not Running
+Timestamp:2024-05-21 18:15:24.662209, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null & started by Process Monitor Module
+Timestamp:2024-05-21 18:15:24.686975, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null & Not Running
+Timestamp:2024-05-21 18:15:24.687006, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null & started by Process Monitor Module
+Timestamp:2024-05-21 18:15:24.711568, Process processmonitor.sh kaps1 Not Running
+Timestamp:2024-05-21 18:15:24.711603, Process processmonitor.sh kaps1 started by Process Monitor Module
+Timestamp:2024-05-21 18:15:29.735035, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null & Not Running
+Timestamp:2024-05-21 18:15:29.735069, Process CommunicationModule -path ../config/commmodule.conf 1 1 56 1>>/dev/null 2>>/dev/null & started by Process Monitor Module
+Timestamp:2024-05-21 18:15:29.761948, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null & Not Running
+Timestamp:2024-05-21 18:15:29.762009, Process CommunicationModule -path ../config/commmodule.conf 101 1 56 1>>/dev/null 2>>/dev/null & started by Process Monitor Module
+Timestamp:2024-05-21 18:15:29.790980, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null & Not Running
+Timestamp:2024-05-21 18:15:29.791033, Process CommandController -path ../config/commmodule.conf 201 1 56 1>>/dev/null 2>>/dev/null & started by Process Monitor Module
+Timestamp:2024-05-21 18:15:29.818650, Process processmonitor.sh kaps1 Not Running
+Timestamp:2024-05-21 18:15:29.818670, Process processmonitor.sh kaps1 started by Process Monitor Module
