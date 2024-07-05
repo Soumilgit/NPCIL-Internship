@@ -1,3 +1,8 @@
+# At the top of A.py
+from shared import UserManager
+# Rest of your main.py code
+
+
 import sys
 import os
 import datetime
@@ -6,7 +11,7 @@ import subprocess
 from PyQt5.QtCore import Qt
 from PyQt5.uic import loadUi
 from PyQt5 import QtWidgets
-from PyQt5.QtWidgets import QDialog, QApplication, QButtonGroup, QRadioButton, QWidget, QMessageBox,QVBoxLayout,QLabel,QLineEdit,QPushButton
+from PyQt5.QtWidgets import QDialog,QInputDialog, QApplication, QButtonGroup, QRadioButton, QWidget, QMessageBox,QVBoxLayout,QLabel,QLineEdit,QPushButton
 #import UserManager
 
 
@@ -24,6 +29,7 @@ class User:
 
     def __str__(self):
         return f"ID: {self.id}, Username: {self.username}, Password: {self.password}"
+
 
 class UserManagerDialog(QDialog):
     def __init__(self, parent=None):
@@ -55,11 +61,16 @@ class UserManagerDialog(QDialog):
         print(f"Added user: {user}")
         self.close()
 
+
 class MainWindow(QDialog):
 
     def __init__(self):
         super(MainWindow, self).__init__()
         loadUi("table.ui", self)
+
+
+
+
         self.process_states = {}
         self.tableWidget.setColumnWidth(0, 100)
         self.tableWidget.setRowHeight(0, 1000)
@@ -80,7 +91,30 @@ class MainWindow(QDialog):
         self.tableWidget.setColumnWidth(8, 100)
         self.tableWidget.setRowHeight(8, 1000)
 
+        self.main_layout = QVBoxLayout()
+
+        self.user_manager = UserManager()
+
+        self.tableWidget = self.findChild(QtWidgets.QTableWidget, "tableWidget")
+
+
+        self.open_user_manager_button = QPushButton("Open User Manager")
+        self.open_user_manager_button.clicked.connect(self.open_user_manager)
+
+        self.main_layout.addStretch(1)
+        self.main_layout.addWidget(self.open_user_manager_button)
+
+
+
         self.loaddata()
+
+        self.setLayout(self.main_layout)
+
+    def open_user_manager(self):
+        user_manager_dialog = UserManagerDialog(self)  # Pass an instance of UserManager to the dialog
+        user_manager_dialog.show()
+
+
 
     def loaddata(self):
         processes = [
@@ -129,13 +163,14 @@ class MainWindow(QDialog):
     '''def usermanagermodule(self):
         userm=setUserManager'''
 
+
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     mainwindow = MainWindow()
     widget = QtWidgets.QStackedWidget()
     widget.addWidget(mainwindow)
     widget.setWindowTitle("Process Monitor Module")
-    widget.setFixedHeight(180)
+    widget.setFixedHeight(210)
     widget.setFixedWidth(1210)
     widget.show()
     try:
