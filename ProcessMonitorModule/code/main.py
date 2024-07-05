@@ -1,6 +1,6 @@
-# At the top of A.py
+
 from shared import UserManager
-# Rest of your main.py code
+
 
 
 import sys
@@ -12,7 +12,7 @@ from PyQt5.QtCore import Qt
 from PyQt5.uic import loadUi
 from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import QDialog,QInputDialog, QApplication, QButtonGroup, QRadioButton, QWidget, QMessageBox,QVBoxLayout,QLabel,QLineEdit,QPushButton
-#import UserManager
+
 
 
 StopTime = ['2024-05-17 18:00:05.122148', '2024-05-17 18:40:10.146448', '2024-05-17 18:40:05.122148']
@@ -111,7 +111,7 @@ class MainWindow(QDialog):
         self.setLayout(self.main_layout)
 
     def open_user_manager(self):
-        user_manager_dialog = UserManagerDialog(self)  # Pass an instance of UserManager to the dialog
+        user_manager_dialog = UserManagerDialog(self)  
         user_manager_dialog.show()
 
 
