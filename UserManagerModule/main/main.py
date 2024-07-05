@@ -1,3 +1,7 @@
+
+from shared import UserManager
+# Rest of your main1.py code
+
 import sys
 from PyQt5.QtWidgets import QDialog, QInputDialog, QApplication, QVBoxLayout, QLabel, QLineEdit, QPushButton, QMessageBox
 from PyQt5.QtCore import Qt
@@ -26,20 +30,22 @@ class UserManager:
     def get_user_by_username(self, username):
         return next((u for u in self.users_list if u.username == username), None)
 
-    def update_user(self, username, new_password):
-        user_to_update = self.get_user_by_username(username)
-        if user_to_update:
-            index = self.users_list.index(user_to_update)
-            user_to_update.password = new_password
+    def edit_user(self, username, new_password):
+        user_to_edit = self.get_user_by_username(username)
+        if user_to_edit:
+            index = self.users_list.index(user_to_edit)
+            user_to_edit.password = new_password
             print(f"Updated user: {username} with new password: {new_password}")
         else:
             print(f"User {username} not found.")
 
 class UserManagerDialog(QDialog):
-    def __init__(self, user_manager, parent=None):
-        super().__init__(parent)
-        self.user_manager = user_manager  # Store the user manager instance
+    def __init__(self,  parent=None):
+        super(UserManagerDialog, self).__init__()  # Store the user manager instance
         self.setWindowTitle("User Manager")
+
+        self.user_manager = parent
+
         layout = QVBoxLayout()
 
         self.username_label = QLabel("Username:")
@@ -65,15 +71,15 @@ class UserManagerDialog(QDialog):
 
     def add_user(self):
         username, okPressed = QInputDialog.getText(self, "Add User","Enter username:", QLineEdit.Normal, "")
-        if okPressed and username!= '':
+        if okPressed and username != '':
             password, okPressed = QInputDialog.getText(self, "Add User","Enter password:", QLineEdit.Normal, "")
-            if okPressed and password!= '':
+            if okPressed and password != '':
                 self.user_manager.add_user(username, password)
                 self.close()
 
     def edit_user(self):
         username, okPressed = QInputDialog.getText(self, "Edit User","Enter username of user to edit:", QLineEdit.Normal, "")
-        if okPressed and username!= '':
+        if okPressed and username != '':
             user_to_edit = self.user_manager.get_user_by_username(username)
             if user_to_edit:
                 dialog = EditUserDialog(user_to_edit, self)
@@ -113,7 +119,6 @@ class MainWindow(QDialog):
         layout.addWidget(greeting)
         self.setLayout(layout)
 
-        # Initialize UserManager and pass it to UserManagerDialog
         self.user_manager = UserManager()
         self.user_manager_dialog = UserManagerDialog(self.user_manager, self)
         self.user_manager_dialog.show()
