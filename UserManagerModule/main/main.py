@@ -1,6 +1,6 @@
 
 from shared import UserManager
-# Rest of your main1.py code
+
 
 import sys
 from PyQt5.QtWidgets import QDialog, QInputDialog, QApplication, QVBoxLayout, QLabel, QLineEdit, QPushButton, QMessageBox
@@ -41,7 +41,7 @@ class UserManager:
 
 class UserManagerDialog(QDialog):
     def __init__(self,  parent=None):
-        super(UserManagerDialog, self).__init__()  # Store the user manager instance
+        super(UserManagerDialog, self).__init__()  
         self.setWindowTitle("User Manager")
 
         self.user_manager = parent
