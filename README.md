@@ -1,2 +1,2 @@
-Simple ProcessMonitorModule + UserManagerModule GUI's I made using QtCreator.
-Currently working on integrating both.
+Simple ProcessMonitorModule ,with a UserManagerModule ,GUI I made using QtCreator.
+
